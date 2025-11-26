@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lkvo9InoeGs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\burmi\\Desktop\\КОДЫ\\КР_ПИ\\КР_ПИ\\КР_ПИ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burmi\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\burmi\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\burmi\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

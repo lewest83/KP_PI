@@ -1,0 +1,11 @@
+[
+  {
+    "Id": 1,
+    "EmployeeId": 3,
+    "Employee": null,
+    "StartDate": "2025-12-01T00:00:00",
+    "EndDate": "2025-12-05T00:00:00",
+    "Reason": "\u043E\u0442\u043F\u0443\u0441\u043A",
+    "Status": 1
+  }
+]

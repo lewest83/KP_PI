@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Username": "hr",
+    "Password": "hr123",
+    "Role": 0,
+    "EmployeeId": null
+  },
+  {
+    "Id": 2,
+    "Username": "manager",
+    "Password": "mgr123",
+    "Role": 1,
+    "EmployeeId": null
+  },
+  {
+    "Id": 3,
+    "Username": "accountant",
+    "Password": "acc123",
+    "Role": 2,
+    "EmployeeId": null
+  },
+  {
+    "Id": 4,
+    "Username": "worker",
+    "Password": "user123",
+    "Role": 3,
+    "EmployeeId": null
+  },
+  {
+    "Id": 5,
+    "Username": "worker2",
+    "Password": "123",
+    "Role": 3,
+    "EmployeeId": 3
+  }
+]

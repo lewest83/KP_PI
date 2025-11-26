@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "\u0418\u0432\u0430\u043D",
+    "LastName": "\u0418\u0432\u0430\u043D\u043E\u0432",
+    "DepartmentId": 1,
+    "Department": null,
+    "HireDate": "2020-02-01T00:00:00",
+    "TerminationDate": null,
+    "LeaveRequests": []
+  },
+  {
+    "Id": 2,
+    "FirstName": "\u041E\u043B\u044C\u0433\u0430",
+    "LastName": "\u041F\u0435\u0442\u0440\u043E\u0432\u0430",
+    "DepartmentId": 2,
+    "Department": null,
+    "HireDate": "2021-06-15T00:00:00",
+    "TerminationDate": null,
+    "LeaveRequests": []
+  },
+  {
+    "Id": 3,
+    "FirstName": "\u0410\u0440\u0442\u0451\u043C",
+    "LastName": "\u0411\u0443\u0440\u043C\u0438\u0441\u0442\u0440\u043E\u0432",
+    "DepartmentId": 1,
+    "Department": null,
+    "HireDate": "2025-11-24T00:00:00",
+    "TerminationDate": null,
+    "LeaveRequests": []
+  },
+  {
+    "Id": 4,
+    "FirstName": "",
+    "LastName": "",
+    "DepartmentId": 1,
+    "Department": null,
+    "HireDate": "2025-11-26T00:00:00+03:00",
+    "TerminationDate": "2025-11-26T03:30:52.2455351+03:00",
+    "LeaveRequests": []
+  }
+]
