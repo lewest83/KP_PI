@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("КР_ПИ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9726e204a334c201cd056a0d1f025e89e11b8908")]
 [assembly: System.Reflection.AssemblyProductAttribute("КР_ПИ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("КР_ПИ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

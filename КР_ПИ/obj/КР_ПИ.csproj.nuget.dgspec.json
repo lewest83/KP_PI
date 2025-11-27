@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burmi\\Desktop\\КОДЫ\\КР_ПИ\\КР_ПИ\\КР_ПИ.csproj": {}
+    "E:\\КР_ПИ\\КР_ПИ\\КР_ПИ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burmi\\Desktop\\КОДЫ\\КР_ПИ\\КР_ПИ\\КР_ПИ.csproj": {
+    "E:\\КР_ПИ\\КР_ПИ\\КР_ПИ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burmi\\Desktop\\КОДЫ\\КР_ПИ\\КР_ПИ\\КР_ПИ.csproj",
+        "projectUniqueName": "E:\\КР_ПИ\\КР_ПИ\\КР_ПИ.csproj",
         "projectName": "КР_ПИ",
-        "projectPath": "C:\\Users\\burmi\\Desktop\\КОДЫ\\КР_ПИ\\КР_ПИ\\КР_ПИ.csproj",
-        "packagesPath": "C:\\Users\\burmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burmi\\Desktop\\КОДЫ\\КР_ПИ\\КР_ПИ\\obj\\",
+        "projectPath": "E:\\КР_ПИ\\КР_ПИ\\КР_ПИ.csproj",
+        "packagesPath": "C:\\Users\\NO_1\\.nuget\\packages\\",
+        "outputPath": "E:\\КР_ПИ\\КР_ПИ\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\burmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NO_1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -70,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
